@@ -1,0 +1,18 @@
+==> 2024-04-08 15:29:05 <==
+# cmd: /Users/myhome/anaconda3/bin/conda create -p venv python=3.8
+# conda version: 23.7.4
++defaults/osx-arm64::ca-certificates-2024.3.11-hca03da5_0
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libffi-3.4.4-hca03da5_0
++defaults/osx-arm64::ncurses-6.4-h313beb8_0
++defaults/osx-arm64::openssl-3.0.13-h1a28f6b_0
++defaults/osx-arm64::pip-23.3.1-py38hca03da5_0
++defaults/osx-arm64::python-3.8.19-hb885b13_0
++defaults/osx-arm64::readline-8.2-h1a28f6b_0
++defaults/osx-arm64::setuptools-68.2.2-py38hca03da5_0
++defaults/osx-arm64::sqlite-3.41.2-h80987f9_0
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::wheel-0.41.2-py38hca03da5_0
++defaults/osx-arm64::xz-5.4.6-h80987f9_0
++defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
+# update specs: ['python=3.8']
